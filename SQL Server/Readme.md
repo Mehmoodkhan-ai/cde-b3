@@ -3,7 +3,7 @@
 ### Step 1: Download & Install SQL Server Management Studio (SSMS) 2024 Version
 
 - Open your web browser and go to this link:
-[Google](https://www.sqlserverversions.com/2018/01/sql-server-management-studio-ssms.html)
+[Google (opens in new tab)](https://www.sqlserverversions.com/2018/01/sql-server-management-studio-ssms.html)
 
 - Scroll through the list on the page and find the SSMS version released in 2024. (Make sure you pick the 2024 version, not the one Sir Qasim mentioned.)
 
@@ -18,7 +18,7 @@
 ### Step 2: Download SQL Server Developer Edition
 
 - Open your web browser and go to this link:
-[Google](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[Google (opens in new tab)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 - Scroll down the page until you find the Developer Edition section.
 
@@ -31,7 +31,7 @@
 - Once downloaded, run the installer file.
 
 - Go to this tutorial link for detailed installation instructions:
-[Google](https://www.sqlservertutorial.net/getting-started/install-sql-server/)
+[Google (opens in new tab)](https://www.sqlservertutorial.net/getting-started/install-sql-server/)
 
 - Follow the tutorial step by step exactly as shown:
 
